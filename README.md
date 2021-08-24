@@ -1,4 +1,6 @@
-# DiscordGo
+# This fork has moved to https://github.com/courtier/kolizey
+# This fork has moved to https://github.com/courtier/kolizey
+# This fork has moved to https://github.com/courtier/kolizey
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/courtier/discordgo.svg)](https://pkg.go.dev/github.com/courtier/discordgo) [![Go Report Card](https://goreportcard.com/badge/github.com/courtier/discordgo)](https://goreportcard.com/report/github.com/courtier/discordgo)
 
